@@ -13,7 +13,6 @@ AZ CLI :
 PS :  Set-Context
 AZ CLI :
 
-
 ## Premier lancement du CLoud Shell
 xxx  
 
@@ -37,7 +36,9 @@ AZ CLI :
 PS :  
 AZ CLI :  
 
-## In progress
+## Utiliser la tabulation
 PS :  
 AZ CLI :  
+
+## Mode interactif pour l'AZ CLI
 
