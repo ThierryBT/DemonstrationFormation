@@ -3,8 +3,10 @@ Apprentissage Code Azure
 
 # Convention
 Italique = valeur à modifier  
-Gras =  
-Fond Gris = Code  
+Gras =  Important
+`Fond Gris` = Code  
+PS = Powershell  
+AZ CLI = Bash  
 
 ## Prérequis
 Un abonnement Azure  
@@ -21,8 +23,8 @@ AZ CLI : `az account set --subscription` *id de l'abonnement*
 ## Premier lancement du CLoud Shell
 xxx  
 
-## Afficher les informations de son compte de stockage
-PS : `xxx`  
+## Afficher les informations de son compte de stockage Cloud Shell
+PS : `Get-CloudDrive`  
 AZ CLI : `xxx`  
 
 ## Utiliser un résultat précédent dans la commande (le pipe)
@@ -34,12 +36,12 @@ PS :  `xxx`
 AZ CLI :  `xxx`  
 
 ## Créer une variable
-PS :  `xxx`  
-AZ CLI :  `xxx`  
+PS :  `$unevaleur = "nom de ma VM"`  
+AZ CLI :  `unevaleur="nom de ma VM"`  **il n'y a pas d'espace avant et après le symbole d'égalité** 
 
-## Afficher une variable
-PS :  `xxx`  
-AZ CLI :  `xxx`  
+## Afficher une variable (affichage des variables créées précédemment)
+PS :  `$unevaleur`  
+AZ CLI :  `echo $unevaleur`  
 
 ## Utiliser une variable
 PS :  `xxx`  
