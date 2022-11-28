@@ -3,7 +3,7 @@ Apprentissage Code Azure
 
 # Convention
 Italique = valeur à modifier  
-Gras =  Important
+Gras =  Important  
 `Fond Gris` = Code  
 PS = Powershell  
 AZ CLI = Bash  
@@ -25,13 +25,9 @@ xxx
 
 ## Afficher les informations de son compte de stockage Cloud Shell
 PS : `Get-CloudDrive`  
-AZ CLI : `xxx`  
+AZ CLI : `df`  
 
 ## Utiliser un résultat précédent dans la commande (le pipe)
-PS :  `xxx`  
-AZ CLI :  `xxx`  
-
-## Filtrer un retour de commande
 PS :  `xxx`  
 AZ CLI :  `xxx`  
 

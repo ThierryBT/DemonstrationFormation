@@ -11,6 +11,8 @@ Il faut les ajouter directement depuis Powershell. Ces ajouts se font depuis un 
 Pour récupérer et installer ces modules, le fenêtre Powershell est lancée avec un compte à privilège.  
 La commande est :  
 `Install-Module -Name Az`  
-Cette installtion peut prendre quelques minutes.
+Cette installation peut prendre quelques minutes.
+
+
 
 
