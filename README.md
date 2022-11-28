@@ -6,3 +6,6 @@ Difficulté : ★☆☆☆☆
 
 Comment démarrer avec le code depuis son poste de travail  (exemples_de_base_ise_distant.md)  
 Difficulté : ★☆☆☆☆
+
+Comment aller + loin avec le code sur le portail Azure (exemples_avancés.md)
+Difficulté : ★★★☆☆
