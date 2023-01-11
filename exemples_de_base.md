@@ -49,8 +49,10 @@ AZ CLI :  `monrg="mongroupederessources"`↲
           `az vm show --resource-group $monrg --name $vm`  
 
 ## Utiliser la tabulation
-PS :  `xxx`  
-AZ CLI :  `xxx`  
+PS :  `Get-AzV` *utiliser la touche tabulation à la suite de cette commande avant de valider par entrée va afficher l'ensemble des commandes qui débutent par Get-AZV*  
+      `Get-AzVM -` *utiliser la touche tabulation à la suite de cette commande avant de valider par entrée va afficher l'ensemble des paramètres de la commande Get-AZVM*  
+AZ CLI :  `az vm` *utiliser la touche tabulation à la suite de cette commande avant de valider par entrée va afficher l'ensemble des sous-commandes de la commande az vm*  
+          `az vm show -` *utiliser la touche tabulation à la suite de cette commande avant de valider par entrée va afficher l'ensemble des paramètres de la commande az vm show*  
 
 ## Mode interactif pour l'AZ CLI
-
+AZ CLI :  `az interactive` *mode interactif en preview, à tester, facilite l'utilisation des commandes*  
