@@ -1,0 +1,23 @@
+// Se positionner dans le répertoire ou se trouve le Json
+// Powershell => Lancer la commande 'New-AzResourceGroupDeployment -ResourceGroupName "DemoJson" -TemplateFile "create-vnet.json"'
+// CLI => Lancer la commande "az deployment group create --resource-group DemoJson --template-file create-vnet.json"
+
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "resources": [
+        {
+            "type": "Microsoft.Network/virtualNetworks",
+            "apiVersion": "2020-11-01",
+            "name": "vnetarm001",
+            "location": "francecentral",
+            "properties": {
+                "addressSpace": {
+                    "addressPrefixes": [
+                        "10.0.0.0/16"
+                    ]
+                }
+            }
+        }
+    ]
+}
