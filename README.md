@@ -47,11 +47,3 @@ Ici atterissent les liens du Xmind qui ne sont pas encore alimentés. Merci de r
 
 ## Licence
 GNU General Public License v3.0  
-
-
-
-
-
-
-
-
