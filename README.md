@@ -38,9 +38,12 @@ Les répertoires _env sont des exemples de déploiements d'environnements. C'est
 ## Les coquilles ou erreurs.
 In progress  
 
-## Avertissments
+## Avertissments.
 - Les codes et templates sont testés mais je ne garantie pas leur fonctionnement sur tous les environnements.  
-- Les ressources déployées sont facturées, l'utilisatrice / utilisateur prend en compte cette facturation et supprime les ressources créées en fin d'exercice.  
+- Les ressources déployées sont facturées, l'utilisatrice / utilisateur prend en compte cette facturation et supprime les reSssources créées en fin d'exercice.  
+
+## Les rubriques en cours(Xmind).m
+Ici atterissent les liens du Xmind qui ne sont pas encore alimentés. Merci de revenir régulièrement.  
 
 ## Licence
 GNU General Public License v3.0  
